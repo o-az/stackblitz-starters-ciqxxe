@@ -1,0 +1,28 @@
+{
+  "name": "nextjs-wc",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@stefanjudis/sparkly-text": "^1.0.10",
+    "autoprefixer": "10.4.19",
+    "next": "^13.5",
+    "postcss": "8.4.38",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "tailwindcss": "3.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "20.12.13",
+    "@types/react": "18.3.3",
+    "@types/react-dom": "18.3.0",
+    "eslint": "8.49.0",
+    "eslint-config-next": "13.5.1",
+    "typescript": "5.4.5"
+  }
+}
